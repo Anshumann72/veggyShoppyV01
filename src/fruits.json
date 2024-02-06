@@ -1,0 +1,57 @@
+[
+  {
+    "id": 5,
+    "name": "Cabbage",
+    "photo_url": "https://www.freepngimg.com/thumb/categories/2970.png",
+    "price": "₹30"
+  },
+  {
+    "id": 6,
+    "name": "Capsicum",
+    "photo_url": "https://www.nicepng.com/png/detail/52-525615_green-bell-pepper-png-green-capsicum-png.png",
+    "price": "₹5"
+  },
+  {
+    "id": 7,
+    "name": "Garlic",
+    "photo_url": "https://www.freepngimg.com/thumb/garlic/2-2-garlic-transparent-thumb.png",
+    "price": "₹20"
+  },
+  {
+    "id": 8,
+    "name": "Beetroot",
+    "photo_url": "https://pngimg.com/uploads/beet/beet_PNG28.png",
+    "price": "₹20"
+  },
+  {
+    "id": 9,
+    "name": "Tomatoes",
+    "photo_url": "https://www.freepngimg.com/thumb/categories/2985.png",
+    "price": "₹5"
+  },
+  {
+    "id": 10,
+    "name": "Celeriac",
+    "photo_url": "https://w7.pngwing.com/pngs/252/146/png-transparent-celeriac-leaf-vegetable-food-celery-herbes-leaf-vegetable-food-plant-stem-thumbnail.png",
+    "price": "₹5"
+  },
+  {
+    "id": 11,
+    "name": "Carrots",
+    "photo_url": "https://www.freepngimg.com/thumb/categories/2971.png",
+    "price": "₹60"
+  },
+  {
+    "id": 12,
+    "name": "Onions",
+    "photo_url": "https://www.freepngimg.com/thumb/onion/10-red-onion-png-image-thumb.png",
+    "price": "₹120"
+  },
+  {
+    "id": 13,
+    "name": "Potatoes",
+    "photo_url": "https://www.freepngimg.com/thumb/potato/7-potato-png-images-pictures-download-thumb.png",
+    "price": "₹80"
+  }
+  
+]
